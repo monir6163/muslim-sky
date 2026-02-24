@@ -1,19 +1,29 @@
-# Welcome to your Expo app 👋
+# Muslim-Sky 🌙
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A beautiful and accurate Islamic prayer times app built with Expo and React Native. Get precise prayer times based on your current location with support for multiple calculation methods.
+
+## Features
+
+✨ **Location-Based Prayer Times** - Automatically detects your location and shows accurate prayer times
+🕌 **5 Daily Prayers + Sunrise** - Fajr, Dhuhr, Asr, Maghrib, Isha, and Sunrise times
+🌍 **Multiple Calculation Methods** - Support for MWL, ISNA, Egyptian, Makkah, and more
+🌓 **Dark Mode Support** - Beautiful UI that adapts to your system theme
+📅 **Hijri Calendar** - Shows both Gregorian and Islamic dates
+⏰ **Next Prayer Indicator** - Highlights the upcoming prayer time
+🔄 **Pull to Refresh** - Easy refresh to update prayer times
 
 ## Get started
 
 1. Install dependencies
 
    ```bash
-   npm install
+   pnpm install
    ```
 
 2. Start the app
 
    ```bash
-   npx expo start
+   pnpm start
    ```
 
 In the output, you'll find options to open the app in a
@@ -21,19 +31,76 @@ In the output, you'll find options to open the app in a
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Expo Go](https://expo.dev/go)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Prayer Time API
 
-## Get a fresh project
+The app uses the [Aladhan Prayer Times API](https://aladhan.com/prayer-times-api) to fetch accurate prayer times.
 
-When you're ready, run:
+### Available Calculation Methods
 
-```bash
-npm run reset-project
+- **MWL** (Muslim World League) - Default
+- **ISNA** (Islamic Society of North America)
+- **Egyptian** (Egyptian General Authority of Survey)
+- **Makkah** (Umm Al-Qura University, Makkah)
+- **Karachi** (University of Islamic Sciences, Karachi)
+- **Tehran** (Institute of Geophysics, University of Tehran)
+- **Jafari** (Shia Ithna-Ashari, Leva Institute, Qum)
+
+You can change the calculation method in the `getPrayerTimesForCurrentLocation()` function by passing a different `CalculationMethod` enum value.
+
+## Location Permissions
+
+The app requires location permissions to determine your coordinates for accurate prayer times:
+
+- **iOS**: The app will request "When In Use" location permission
+- **Android**: The app requests ACCESS_FINE_LOCATION and ACCESS_COARSE_LOCATION permissions
+
+If permission is denied, the app will display an error message with a retry button.
+
+## Project Structure
+
+```
+Muslim-Sky/
+├── app/
+│   ├── (tabs)/
+│   │   ├── index.tsx          # Prayer Times screen
+│   │   ├── explore.tsx        # Explore screen
+│   │   └── _layout.tsx        # Tab navigation layout
+│   └── _layout.tsx            # Root layout
+├── components/
+│   ├── prayer-times-card.tsx  # Main prayer times component
+│   └── ui/                    # UI components
+├── services/
+│   └── prayerTimeApi.ts       # Prayer time API service
+└── hooks/                     # Custom hooks
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## API Service Functions
+
+### `getPrayerTimesForCurrentLocation(method?)`
+
+Fetches prayer times for the user's current location.
+
+### `getUserLocation()`
+
+Gets the user's current GPS coordinates.
+
+### `formatPrayerTime(time)`
+
+Converts 24-hour format to 12-hour AM/PM format.
+
+### `getNextPrayer(timings)`
+
+Determines which prayer is coming next.
+
+## Technologies Used
+
+- **Expo** - React Native framework
+- **TypeScript** - Type-safe development
+- **expo-location** - Location services
+- **NativeWind** - Tailwind CSS for React Native
+- **Aladhan API** - Prayer times data
 
 ## Learn more
 
