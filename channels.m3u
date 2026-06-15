@@ -1,16 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Spain vs Cape Verde" tvg-logo="https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95" group-title="FIFA 2026",Spain vs Cape Verde
+#EXTINF:-1 tvg-name="Belgium vs Egypt" tvg-logo="https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95" group-title="FIFA 2026",Belgium vs Egypt
 https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1779283805&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e5ce886378c54bd381b9833b5d57649a
 
-#EXTINF:-1 tvg-name="Spain vs Cape Verde 2" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Spain vs Cape Verde 2
+#EXTINF:-1 tvg-name="Belgium vs Egypt 2" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Belgium vs Egypt 2
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="Bangla, FIFA 2026, News",Somoy TV 
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-name="Somoy TV 2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="Bangla, FIFA 2026, News",Somoy TV 2
-https://iptv.ryvoxtb.workers.dev/live/somoytv.m3u8?token=698bb62d6919e5c22ec8be7a017971f5&time=1781488364
+
 
 #EXTINF:-1 tvg-name="BIOSCOPE PLUS" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",BIOSCOPE PLUS
 https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
