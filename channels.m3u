@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Spain vs Cape Verde" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Spain vs Cape Verde
+#EXTINF:-1 tvg-name="Spain vs Cape Verde 2" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Spain vs Cape Verde 2
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="Spain vs Cape Verde" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Spain vs Cape Verde
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD-video=2137600.m3u8
 
 
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="Bangla, FIFA 2026, News",Somoy TV 
