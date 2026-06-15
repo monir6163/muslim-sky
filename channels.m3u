@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Live Today" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Live Today
-https://live.kooran12.cfd/tist1/index.m3u8
+https://s3.us-east-2.amazonaws.com/yallapro9/hls/0/stream_640x360_800k.m3u8
 
 
 #EXTINF:-1 tvg-name="Live Match" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Live Match
