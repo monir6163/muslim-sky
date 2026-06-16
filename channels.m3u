@@ -2,13 +2,20 @@
 
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="Bangla, FIFA 2026, News",Somoy TV 
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-name="BeinSports" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",BeinSports
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Somoy TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-name="StarSports1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",StarSports1
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-name="Caze TV" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Caze TV
+https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Iran vs New Zealand" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Iran vs New Zealand
 https://live.kooran23.cfd/tist1/index.m3u8
-
-#EXTINF:-1 tvg-name="Iran vs New Zealand 2" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Iran vs New Zealand 2
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 #EXTINF:-1 tvg-name="Iran vs New Zealand 3" tvg-logo="https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95" group-title="FIFA 2026",Iran vs New Zealand 3
 https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1779283805&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e5ce886378c54bd381b9833b5d57649a
