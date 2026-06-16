@@ -9,8 +9,8 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-name="StarSports1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",StarSports1
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-name="Tsn1" tvg-logo="https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95" group-title="FIFA 2026",Tsn1
-https://tvsen7.aynaott.com/tsn1/index.m3u8?e=1779283805&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e5ce886378c54bd381b9833b5d57649a
+#EXTINF:-1 tvg-name="Padma Cables" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Padma Cables
+https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 
 #EXTINF:-1 tvg-name="Caze TV" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Caze TV
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
