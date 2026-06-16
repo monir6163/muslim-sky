@@ -23,3 +23,9 @@ https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 tvg-name="Fox" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Fox
 https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+
+#EXTINF:-1 tvg-name="Espn" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Espn
+https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
+
+#EXTINF:-1 tvg-name="DSports" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",DSports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
