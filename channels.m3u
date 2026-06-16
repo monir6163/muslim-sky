@@ -9,6 +9,12 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-name="Iran vs New Zealand 3" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Iran vs New Zealand 3
 https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
 
+#EXTINF:-1 tvg-name="Iran vs New Zealand 4" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Iran vs New Zealand 4
+https://tda-nnaa-drct-pa6dy.fast.nbcuni.com/live/master_2.m3u8
+
+#EXTINF:-1 tvg-name="Iran vs New Zealand 5" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Iran vs New Zealand 5
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
 
 #EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="Bangla, FIFA 2026, News",Somoy TV 
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
