@@ -1,12 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Go Live" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Go Live
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Arg vs Alg 2" tvg-logo="https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7" group-title="FIFA 2026",Arg vs Alg 2
+#EXTINF:-1 tvg-name="tvsen7" tvg-logo="https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7" group-title="FIFA 2026",tvsen7
 https://tvsen7.aynaott.com/tsn3/index.m3u8
 
-#EXTINF:-1 tvg-name="Arg vs Alg 3" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Arg vs Alg 3
+#EXTINF:-1 tvg-name="Austria vs Jordan" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Austria vs Jordan
 https://uyhdsgyu.yallashooott.online/hls/ch1.m3u8
 
 #EXTINF:-1 tvg-name="BeinSports" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",BeinSports
