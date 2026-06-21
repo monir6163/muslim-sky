@@ -1,37 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="tvsen7" tvg-logo="https://s3.aynaott.com/storage/1cb10107a47db353e35ad78d3160eda7" group-title="FIFA 2026",tvsen7
-https://tvsen7.aynaott.com/tsn3/index.m3u8
-
-#EXTINF:-1 tvg-name="Austria vs Jordan" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Austria vs Jordan
-https://uyhdsgyu.yallashooott.online/hls/ch1.m3u8
-
-#EXTINF:-1 tvg-name="BeinSports" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",BeinSports
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Somoy TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1 tvg-name="StarSports1" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",StarSports1
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1 tvg-name="Padma Cables" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Padma Cables
-https://padmaonline.duckdns.org:8088/pcv/index.m3u8
-
-#EXTINF:-1 tvg-name="Caze TV" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Caze TV
-https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Win Sports" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Win Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-
-#EXTINF:-1 tvg-name="Dazn" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Dazn
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 tvg-name="Fox" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Fox
-https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
-
-#EXTINF:-1 tvg-name="Espn" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",Espn
-https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
-
-#EXTINF:-1 tvg-name="DSports" tvg-logo="https://i.postimg.cc/661Rm2z8/image.png" group-title="FIFA 2026",DSports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 tvg-name="Tooffee" tvg-logo="https://i.postimg.cc/yNfjTxPz/images.jpg" group-title="FIFA 2026",Tooffee
+https://fifalive.click/play
